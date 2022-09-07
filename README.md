@@ -6,9 +6,20 @@
 
 ## 研修課題
 
-## その他
+1. レイアウト基礎（HTML・CSS）
+    1. [其の一 『ページ大枠のレイアウト』](./basic-layout/no1/README.md)
+
+### 提出までの流れ
+
+- 本リポジトリ(<https://github.com/lineaworks/new-employee-training>)をForkし、ソースコードを取得してください。  
+  手順は、[forkしたリポジトリを更新する方法](https://qiita.com/taoki11111/items/6582dafeb971f66d1f79)の手順1、2をご参照ください。
+- 着手する課題ごとに作業ブランチを`master`から切ってください。ブランチ名は`着手日_課題カテゴリ番号_課題番号`としてください。（ex. 20220101_1_1）
+- 課題内容・実装内容は各課題のREADMEを参照ください。
+- 完了したら、作業ブランチをpush後、エンジニアチームから`@tommyKazuhito`ともう一名をレビュアーに指名して、プルリクエストを作成してください。プルリクエストのタイトルは、`【課題提出】課題タイトル 提出者名`でお願いします。（ex. 【課題提出】レイアウト基礎（HTML・CSS）其の一 『ページ大枠のレイアウト』 冨原）  
+
+### その他
 
 - 研修内容に関する質問は、  
-  本リポジトリのissue(<https://github.com/lineaworks/training-basic-layout-1/issues>)にて`question`のラベルを付けてトピックの作成をお願いいたします。  
-  ※issueのタイトルは、`【課題タイトル】質問タイトル`でお願いします。  
-  ※メンションは`@tommyKazuhito`でお願いします（必要に応じてチームメンバーアサインします）。
+  本リポジトリのissue(<https://github.com/lineaworks/training-basic-layout-1/issues>）にて`question`のラベルを付けてトピックの作成をお願いいたします。  
+  ※issueのタイトルは、`【課題タイトル】質問タイトル`でお願いします。（ex. 【レイアウト基礎（HTML・CSS）其の一 『ページ大枠のレイアウト』】使用するフォントに関して）  
+  ※メンションは`@tommyKazuhito`でお願いします。（必要に応じてチームメンバーアサインします）
