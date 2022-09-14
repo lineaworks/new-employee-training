@@ -19,7 +19,7 @@
 
 ### 1.デザインファイルのダウンロード
 
-<https://www.dropbox.com/t/SCAmINdjsdnnteuF>
+</Dropbox/Projects/Lineaworks/エンジニアチーム/新人研修/検討中/レイアウト基礎/其の1 『ページ大枠のレイアウト1』.xd>
 
 ### 2.npmパッケージのインストール
 
