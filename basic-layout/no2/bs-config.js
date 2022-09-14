@@ -18,7 +18,7 @@ module.exports = {
     },
     "files": [
       "htdocs/**/*.html",
-      "htdocs/**/*.css",
+      "htdocs/css/**/*.css",
     ],
     "watchEvents": [
         "change"
