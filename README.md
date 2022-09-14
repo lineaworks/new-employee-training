@@ -9,7 +9,8 @@
 1. レイアウト基礎
     1. [其の一 『ページ大枠のレイアウト1』](./basic-layout/no1/README.md)
     2. [其の二 『ページ大枠のレイアウト2』](./basic-layout/no2/README.md)
-    3. [其の三 『ページ大枠のレイアウト3』](./basic-layout/no3/README.md)
+    3. [其の三 『WEBページの基本的なレイアウト1』](./basic-layout/no3/README.md)
+    4. [其の四 『WEBページの基本的なレイアウト2』](./basic-layout/no4/README.md)
 
 ### 提出までの流れ
 
