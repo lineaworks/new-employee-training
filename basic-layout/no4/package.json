@@ -1,0 +1,17 @@
+{
+  "name": "basic-layout-4",
+  "version": "1.0.0",
+  "description": "レイアウト基礎研修、4つ目の課題です。WEBサイトのトップページによく見られる構成のレイアウトを作成してもらいます。要素のグルーピングに注意しながら課題に取り組んでください。",
+  "engines": {
+    "node": "^16.16.0",
+    "npm": "^8.11.0"
+  },
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "author": "Lineaworks inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "2.27.10"
+  }
+}

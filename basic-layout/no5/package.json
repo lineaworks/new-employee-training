@@ -1,0 +1,17 @@
+{
+  "name": "basic-layout-5",
+  "version": "1.0.0",
+  "description": "レイアウト基礎研修、5つ目の課題です。ブログページによく見られる構成のレイアウトを作成してもらいます。画面サイズの変化によるレイアウト崩れに注意しながら取り組んでください。",
+  "engines": {
+    "node": "^16.16.0",
+    "npm": "^8.11.0"
+  },
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "author": "Lineaworks inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "2.27.10"
+  }
+}

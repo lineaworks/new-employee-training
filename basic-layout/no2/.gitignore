@@ -1,0 +1,7 @@
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Dependency directories
+node_modules/
