@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>レイアウト基礎 其の三</title>
 
-  <meta name="description" content="レイアウト基礎研修、3つ目の課題です。シンプルな構成のWEBサイトの要素のレイアウトを作成してもらいます。ページの大枠と要素の関係、要素と要素の関係に注意しながら課題に取り組んでください。">
+  <meta name="description"
+    content="レイアウト基礎研修、3つ目の課題です。シンプルな構成のWEBサイトの要素のレイアウトを作成してもらいます。ページの大枠と要素の関係、要素と要素の関係に注意しながら課題に取り組んでください。">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,7 +17,63 @@
   <link rel="stylesheet" href="./css/destyle.css">
   <link rel="stylesheet" href="./css/style.css">
 </head>
-<body>
 
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <p class="txt">HEADER</p>
+    </header>
+    <div class="line-up">
+      <main class="main">
+        <div class="main_visual">
+          <div class="inner">
+            <p class="txt">MAIN VISUAL</p>
+          </div>
+        </div>
+
+        <section class="contents_1">
+          <div class="inner">
+            <div class="c1-items">
+              <p class="txt">CONTENTS 1 - 1</p>
+            </div>
+            <div class="c1-items">
+              <p class="txt">CONTENTS 1 - 2</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="contents_2">
+          <div class="inner">
+            <div class="c2-items">
+              <p class="txt">CONTENTS <span class="new_line">2 - 1</span></p>
+            </div>
+            <div class="c2-items">
+              <p class="txt">CONTENTS <span class="new_line">2 - 2</span></p>
+            </div>
+            <div class="c2-items">
+              <p class="txt">CONTENTS <span class="new_line">2 - 3</span></p>
+            </div>
+            <div class="c2-items">
+              <p class="txt">CONTENTS <span class="new_line">2 - 4</span></p>
+            </div>
+          </div>
+        </section>
+
+        <section class="banner">
+          <div class="inner">
+            <p class="txt img">BANNER<img src="" alt=""></p>
+          </div>
+        </section>
+
+      </main>
+      <div class="sidebar">
+        <p class="txt">SIDEBAR</p>
+      </div>
+    </div>
+    <footer class="footer">
+      <p class="txt">FOOTER</p>
+    </footer>
+  </div>
 </body>
+
 </html>
